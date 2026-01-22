@@ -1,0 +1,11 @@
+# Airflow Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.DS_Store
